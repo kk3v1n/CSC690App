@@ -1,4 +1,4 @@
-# CSC690App
+# CSC690App - Cyber Pocket!
 
 Kevin Karmacharya's Final Project for CSC 690 
 
